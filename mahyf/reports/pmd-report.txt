@@ -1,0 +1,44 @@
+src/main/java/org/helmo/gbeditor/App.java:49:	NcssCount:	NcssCount: The method 'start(Stage)' has a NCSS line count of 27.
+src/main/java/org/helmo/gbeditor/App.java:49:	NcssCount:	NcssCount: The method 'start(Stage)' has a NCSS line count of 27.
+src/main/java/org/helmo/gbeditor/App.java:73:	UnusedLocalVariable:	UnusedLocalVariable: Avoid unused local variables such as 'loginPresenter'.
+src/main/java/org/helmo/gbeditor/App.java:73:	UnusedLocalVariable:	UnusedLocalVariable: Avoid unused local variables such as 'loginPresenter'.
+src/main/java/org/helmo/gbeditor/App.java:74:	LongVariable:	LongVariable: Avoid excessively long variable names like createNewBooKPresenter
+src/main/java/org/helmo/gbeditor/App.java:74:	LongVariable:	LongVariable: Avoid excessively long variable names like createNewBooKPresenter
+src/main/java/org/helmo/gbeditor/App.java:74:	UnusedLocalVariable:	UnusedLocalVariable: Avoid unused local variables such as 'createNewBooKPresenter'.
+src/main/java/org/helmo/gbeditor/App.java:74:	UnusedLocalVariable:	UnusedLocalVariable: Avoid unused local variables such as 'createNewBooKPresenter'.
+src/main/java/org/helmo/gbeditor/App.java:75:	UnusedLocalVariable:	UnusedLocalVariable: Avoid unused local variables such as 'listBookPresenter'.
+src/main/java/org/helmo/gbeditor/App.java:75:	UnusedLocalVariable:	UnusedLocalVariable: Avoid unused local variables such as 'listBookPresenter'.
+src/main/java/org/helmo/gbeditor/App.java:76:	UnusedLocalVariable:	UnusedLocalVariable: Avoid unused local variables such as 'bookPresenter'.
+src/main/java/org/helmo/gbeditor/App.java:76:	UnusedLocalVariable:	UnusedLocalVariable: Avoid unused local variables such as 'bookPresenter'.
+src/main/java/org/helmo/gbeditor/App.java:77:	LongVariable:	LongVariable: Avoid excessively long variable names like detailBookPresenter
+src/main/java/org/helmo/gbeditor/App.java:77:	LongVariable:	LongVariable: Avoid excessively long variable names like detailBookPresenter
+src/main/java/org/helmo/gbeditor/App.java:77:	UnusedLocalVariable:	UnusedLocalVariable: Avoid unused local variables such as 'detailBookPresenter'.
+src/main/java/org/helmo/gbeditor/App.java:77:	UnusedLocalVariable:	UnusedLocalVariable: Avoid unused local variables such as 'detailBookPresenter'.
+src/main/java/org/helmo/gbeditor/App.java:78:	UnusedLocalVariable:	UnusedLocalVariable: Avoid unused local variables such as 'editBookPresenter'.
+src/main/java/org/helmo/gbeditor/App.java:78:	UnusedLocalVariable:	UnusedLocalVariable: Avoid unused local variables such as 'editBookPresenter'.
+src/main/java/org/helmo/gbeditor/App.java:86:	DoNotTerminateVM:	DoNotTerminateVM: System.exit() should not be used in J2EE/JEE apps
+src/main/java/org/helmo/gbeditor/App.java:86:	DoNotTerminateVM:	DoNotTerminateVM: System.exit() should not be used in J2EE/JEE apps
+src/main/java/org/helmo/gbeditor/infrastructures/SqlBookStorage.java:1:	ExcessivePublicCount:	ExcessivePublicCount: This class has a bunch of public methods and attributes
+src/main/java/org/helmo/gbeditor/infrastructures/SqlBookStorage.java:1:	ExcessivePublicCount:	ExcessivePublicCount: This class has a bunch of public methods and attributes
+src/main/java/org/helmo/gbeditor/infrastructures/SqlBookStorage.java:26:	NcssCount:	NcssCount: The class 'SqlBookStorage' has a NCSS line count of 197 (Highest = 14).
+src/main/java/org/helmo/gbeditor/infrastructures/SqlBookStorage.java:26:	NcssCount:	NcssCount: The class 'SqlBookStorage' has a NCSS line count of 197 (Highest = 14).
+src/main/java/org/helmo/gbeditor/infrastructures/SqlBookStorage.java:41:	LongVariable:	LongVariable: Avoid excessively long variable names like CREATE_TABLE_AUTHOR
+src/main/java/org/helmo/gbeditor/infrastructures/SqlBookStorage.java:41:	LongVariable:	LongVariable: Avoid excessively long variable names like CREATE_TABLE_AUTHOR
+src/main/java/org/helmo/gbeditor/infrastructures/SqlBookStorage.java:56:	LongVariable:	LongVariable: Avoid excessively long variable names like CREATE_TABLE_CHOICE
+src/main/java/org/helmo/gbeditor/infrastructures/SqlBookStorage.java:56:	LongVariable:	LongVariable: Avoid excessively long variable names like CREATE_TABLE_CHOICE
+src/main/java/org/helmo/gbeditor/infrastructures/SqlBookStorage.java:72:	LongVariable:	LongVariable: Avoid excessively long variable names like UPDATE_BOOK_PUBLISH
+src/main/java/org/helmo/gbeditor/infrastructures/SqlBookStorage.java:72:	LongVariable:	LongVariable: Avoid excessively long variable names like UPDATE_BOOK_PUBLISH
+src/main/java/org/helmo/gbeditor/infrastructures/SqlBookStorage.java:90:	LongVariable:	LongVariable: Avoid excessively long variable names like DELETE_CHOICE_WHEN_PAGE_DELETE
+src/main/java/org/helmo/gbeditor/infrastructures/SqlBookStorage.java:90:	LongVariable:	LongVariable: Avoid excessively long variable names like DELETE_CHOICE_WHEN_PAGE_DELETE
+src/main/java/org/helmo/gbeditor/infrastructures/SqlBookStorage.java:105:	LongVariable:	LongVariable: Avoid excessively long variable names like CHECK_AUTHOR_EXIST
+src/main/java/org/helmo/gbeditor/infrastructures/SqlBookStorage.java:105:	LongVariable:	LongVariable: Avoid excessively long variable names like CHECK_AUTHOR_EXIST
+src/main/java/org/helmo/gbeditor/models/Book.java:1:	ExcessivePublicCount:	ExcessivePublicCount: This class has a bunch of public methods and attributes
+src/main/java/org/helmo/gbeditor/models/Book.java:1:	ExcessivePublicCount:	ExcessivePublicCount: This class has a bunch of public methods and attributes
+src/main/java/org/helmo/gbeditor/models/Book.java:42:	GodClass:	GodClass: Possible God Class (WMC=59, ATFD=10, TCC=9.846%)
+src/main/java/org/helmo/gbeditor/models/Book.java:42:	GodClass:	GodClass: Possible God Class (WMC=59, ATFD=10, TCC=9.846%)
+src/main/java/org/helmo/gbeditor/models/Book.java:42:	TooManyFields:	TooManyFields: Too many fields
+src/main/java/org/helmo/gbeditor/models/Book.java:42:	TooManyFields:	TooManyFields: Too many fields
+src/main/java/org/helmo/gbeditor/models/Book.java:72:	ExcessiveParameterList:	ExcessiveParameterList: Avoid long parameter lists.
+src/main/java/org/helmo/gbeditor/models/Book.java:72:	ExcessiveParameterList:	ExcessiveParameterList: Avoid long parameter lists.
+src/main/java/org/helmo/gbeditor/models/Book.java:93:	ExcessiveParameterList:	ExcessiveParameterList: Avoid long parameter lists.
+src/main/java/org/helmo/gbeditor/models/Book.java:93:	ExcessiveParameterList:	ExcessiveParameterList: Avoid long parameter lists.

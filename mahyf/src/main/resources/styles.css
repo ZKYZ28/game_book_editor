@@ -1,0 +1,77 @@
+.header{
+    -fx-background-color: #2b2d42;
+}
+
+.title{
+    -fx-text-fill: #edf2f4;
+    -fx-padding: 25px;
+}
+
+.userName{
+    -fx-text-fill: #edf2f4;
+    -fx-font-size: 15;
+}
+
+.text{
+    -fx-text-fill: #2b2d42;
+    -fx-font-size: 15px;
+    -fx-padding: 15 10;
+    -fx-font-weight: bold;
+}
+
+.textField{
+    -fx-text-inner-color: #8d99ae;
+    -fx-control-inner-background: #2b2d42;
+    -fx-border-color: #8d99ae;
+}
+
+.button{
+    -fx-background-color: #2b2d42;
+    -fx-text-fill: #8d99ae;
+    -fx-padding: 5 15;
+    -fx-border-radius: 50px;
+    -fx-font-weight: bold;
+}
+
+.message{
+    -fx-text-fill: red;
+    -fx-font-weight: bold;
+    -fx-font-size: 15;
+}
+
+.noErroMessage{
+    -fx-text-fill: green;
+    -fx-font-weight: bold;
+    -fx-font-size: 15;
+}
+
+.bookView{
+    -fx-background-color: white;
+    -fx-padding: 10 10;
+}
+
+.addPadding{
+    -fx-padding: 50 0 20 0;
+}
+
+.topEditBook{
+    -fx-padding: 10;
+    -fx-background-color: white;
+}
+
+.editContainer{
+    -fx-background-color: #2b2d42;
+    -fx-padding: 15 0;
+}
+
+.editPageitem{
+    -fx-background-color: white;
+    -fx-padding: 10 10;
+}
+
+.booksContainer{
+    -fx-background-image: url("https://i.pinimg.com/originals/d8/55/9f/d8559f57d2cfcc8db35f032b424f1fe8.gif");
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: 450 450;
+    -fx-background-position: center center;
+}

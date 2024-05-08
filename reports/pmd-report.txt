@@ -1,0 +1,8 @@
+mahyf/build/reports/tests/test/index.html:7:	UnnecessaryTypeAttribute:	UnnecessaryTypeAttribute: Type attribute for link and script elements is not needed.
+mahyf/build/reports/tests/test/index.html:7:	UnnecessaryTypeAttribute:	UnnecessaryTypeAttribute: Type attribute for link and script elements is not needed.
+mahyf/build/reports/tests/test/index.html:8:	UnnecessaryTypeAttribute:	UnnecessaryTypeAttribute: Type attribute for link and script elements is not needed.
+mahyf/build/reports/tests/test/index.html:8:	UnnecessaryTypeAttribute:	UnnecessaryTypeAttribute: Type attribute for link and script elements is not needed.
+mahyf/build/reports/tests/test/index.html:9:	UnnecessaryTypeAttribute:	UnnecessaryTypeAttribute: Type attribute for link and script elements is not needed.
+mahyf/build/reports/tests/test/index.html:9:	UnnecessaryTypeAttribute:	UnnecessaryTypeAttribute: Type attribute for link and script elements is not needed.
+mahyf/build/reports/tests/test/js/report.js:15:	NoElseReturn:	NoElseReturn: The else block is unnecessary
+mahyf/build/reports/tests/test/js/report.js:15:	NoElseReturn:	NoElseReturn: The else block is unnecessary
